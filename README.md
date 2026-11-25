@@ -11,8 +11,10 @@ APK Android de WhisperFlow, pour piloter le PC et envoyer des fichiers depuis le
 3. Autorise l'installation depuis cette source si Android le demande.
 4. Installe par-dessus l'ancienne version.
 
-## Nouveautés de la version 1.6
+## Nouveautés de la version 1.7
 
+- Contrôle à distance plus fluide : envoi par bandes (seules les zones modifiées partent), haute résolution jusqu'à 2048 px, curseur du PC affiché.
+- Bouton **Réveiller le PC (Wake-on-LAN)** sur l'écran d'erreur : à utiliser sur le même Wi-Fi, avec un PC dont la carte réseau accepte le réveil.
 - **Enregistrement écran verrouillé** : le micro continue même quand l'écran est éteint (service de premier plan + verrou processeur).
 - **Tuile « WhisperFlow »** dans les réglages rapides : démarre ou arrête la dictée depuis l'écran verrouillé.
 - Le texte transcrit arrive sur le téléphone (notification + dernière dictée) avec un bouton **Réécrire sur le PC**.
