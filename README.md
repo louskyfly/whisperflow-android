@@ -11,7 +11,16 @@ APK Android de WhisperFlow, pour piloter le PC et envoyer des fichiers depuis le
 3. Autorise l'installation depuis cette source si Android le demande.
 4. Installe par-dessus l'ancienne version.
 
-## Nouveautés de la version 1.5
+## Nouveautés de la version 1.6
+
+- **Enregistrement écran verrouillé** : le micro continue même quand l'écran est éteint (service de premier plan + verrou processeur).
+- **Tuile « WhisperFlow »** dans les réglages rapides : démarre ou arrête la dictée depuis l'écran verrouillé.
+- Le texte transcrit arrive sur le téléphone (notification + dernière dictée) avec un bouton **Réécrire sur le PC**.
+- Contrôle de l'ordinateur : aperçu des deux écrans, souris au doigt, clavier, alimentation.
+- Envoi de fichiers du téléphone vers le PC, sélecteur de fichiers natif.
+- Sonnerie « Retrouver mon téléphone » : volume alarme au maximum et vibreur au maximum.
+
+### Nouveautés de la version 1.5
 
 - Envoi de fichiers du téléphone vers le PC, même les fichiers lourds (transfert par morceaux).
 - Sélecteur de fichiers Android natif (choix multiple).
